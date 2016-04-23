@@ -1,0 +1,37 @@
+{
+  "name": "slack-police",
+  "version": "0.0.1",
+  "description": "The Slack Police. Watcha gonna do?",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/petermelias/slack-police.git"
+  },
+  "keywords": [
+    "slack",
+    "formatting",
+    "formatter",
+    "autoformat",
+    "punctuation",
+    "etiquette",
+    "spell",
+    "spelling",
+    "spellcheck",
+    "slack-plugin",
+    "plugin",
+    "integration",
+    "slack-integration"
+  ],
+  "author": "Peter M. Elias",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/petermelias/slack-police/issues"
+  },
+  "homepage": "https://github.com/petermelias/slack-police#readme",
+  "dependencies": {
+    "@slack/client": "^2.3.0"
+  }
+}
